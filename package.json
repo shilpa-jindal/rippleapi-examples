@@ -1,0 +1,19 @@
+{
+  "name": "rippleapi-examples",
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "ripple-lib": "*",
+    "babel-cli": "^6.0.0",
+    "babel-preset-env": "*"
+  },
+  "babel": {
+    "presets": [
+      "env"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "*"
+  }
+}
